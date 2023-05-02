@@ -1,3 +1,7 @@
 Esta es la historia de como inicie mi aprendizaje en Git y GitHub con Platzi
 
 Con esta segunda línea compruebo el historial de versiones, sería la V2
+
+Creo que por primera vez estoy entendiendo el valor de Git como administrador de versiones e identificador puntal de los cambios
+
+Estoy contento
