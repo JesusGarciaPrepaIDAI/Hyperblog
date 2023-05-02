@@ -1,3 +1,5 @@
+#Esto no deberia de afectar la programacion.
+
 Esta es la historia de como inicie mi aprendizaje en Git y GitHub con Platzi
 
 Con esta segunda línea compruebo el historial de versiones, sería la V2
