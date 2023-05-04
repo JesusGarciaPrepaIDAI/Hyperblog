@@ -12,4 +12,6 @@ una nueva herramienta de Google Worspace llamada Screencast, esta increible.
 
 Ahora vamos a utilizar reset y chechout
 
-Prueba para comparar etapas cuando inicié Latin
+Prueba para comparar etapas cuando inicié Latino
+
+Aprendiendo cosas nuevas en programación para Git
