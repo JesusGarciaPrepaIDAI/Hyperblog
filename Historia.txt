@@ -1,3 +1,5 @@
+Este deberia de ser el commit de esta version pero no creo que funcione asi.
+
 #Esto no deberia de afectar la programacion.
 
 Esta es la historia de como inicie mi aprendizaje en Git y GitHub con Platzi
@@ -7,3 +9,5 @@ Con esta segunda línea compruebo el historial de versiones, sería la V2
 Creo que por primera vez estoy entendiendo el valor de Git como administrador de versiones e identificador puntal de los cambios
 
 Estoy contento
+
+Ahora acabo de probar una nueva herramienta de Google Worspace llamada Screencast, esta increible.
