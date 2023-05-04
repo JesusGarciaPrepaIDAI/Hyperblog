@@ -11,3 +11,5 @@ Estoy contento
 una nueva herramienta de Google Worspace llamada Screencast, esta increible.
 
 Ahora vamos a utilizar reset y chechout
+
+Prueba para comparar etapas cuando inicié Latin
