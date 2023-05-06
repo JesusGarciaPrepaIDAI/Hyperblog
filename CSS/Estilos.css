@@ -2,7 +2,7 @@ body
 {
     color: black;
     text-align: right;
-    font-family: 'Arial';
+    font-family: 'Times New Roman', Times, serif;
 }
 #container
 {
@@ -15,5 +15,5 @@ body
 #container h1
 {
 
-    font-size: 20px;
+    font-size: 30px;
 }
