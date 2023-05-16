@@ -14,4 +14,6 @@ Ahora vamos a utilizar reset y chechout
 
 Prueba para comparar etapas cuando inicié Latino
 
+Vero inicia la colaboracion del proyecto Historia
+
 Aprendiendo cosas nuevas en programación para Git
